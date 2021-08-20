@@ -1,0 +1,87 @@
+body {
+    background-color: #fff;
+}
+
+.intro {
+    width: 80%;
+    line-height: 1.6;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #FAFAFA;
+    color: #282c34;
+    border: 1px solid #282c34;
+    border-radius: 5px;
+    padding: 1.5rem;
+    font-size: 1.1rem;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.seelink {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a {
+    color: #0070f3;
+}
+
+.reload {
+    color: #0070f3;
+    font-size: 16pt;
+    font-weight: bold;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+    table td, th {
+        font-size: 8pt;
+    }
+
+    .intro {
+        width: 100%;
+        border: none;
+        padding: 1.0rem;
+    }
+
+}
+
+.latencyTable {
+    border: 1px solid #aaa;
+}
+
+.latencyTable td, th {
+    border: 1px solid #aaa;
+    padding: 7px;
+    font-size: 13pt;
+}
+
+.latencyTable td {
+    text-align: right;
+}
+
+.gainTd {
+    font-weight: bolder;
+    color: green;
+    font-size: 17pt;
+}
+
+.lossTd {
+    font-weight: bolder;
+    color: red;
+    font-size: 17pt;
+}
+
+.dbtd {
+    text-align: left;
+}
+
+.tdlatency {
+    text-align: right;
+    font-size: 15pt;
+    color: #0070f3;
+}
+
+.chartDiv {
+}

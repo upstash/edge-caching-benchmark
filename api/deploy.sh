@@ -1,0 +1,10 @@
+serverless deploy --region us-west-1 > deploy-logs/us-west-1.txt &
+serverless deploy --region us-west-2 > deploy-logs/us-west-2.txt &
+serverless deploy --region us-east-1 > deploy-logs/us-east-1.txt &
+serverless deploy --region eu-west-1 > deploy-logs/eu-west-1.txt &
+serverless deploy --region eu-central-1 > deploy-logs/eu-central-1.txt &
+serverless deploy --region sa-east-1 > deploy-logs/sa-east-1.txt &
+serverless deploy --region me-south-1 > deploy-logs/me-south-1.txt &
+serverless deploy --region af-south-1 > deploy-logs/af-south-1.txt &
+serverless deploy --region ap-northeast-1 > deploy-logs/ap-northeast-1.txt &
+serverless deploy --region ap-east-1 > deploy-logs/ap-east-1.txt &

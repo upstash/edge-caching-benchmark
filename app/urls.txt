@@ -1,0 +1,31 @@
+US West (N. California)
+https://kg2nsnegmd.execute-api.us-west-1.amazonaws.com/dev/run
+
+US West (Oregon)
+https://xsdlzzdyji.execute-api.us-west-2.amazonaws.com/dev/run
+
+US East (N. Virginia)
+https://effbmlt2n4.execute-api.us-east-1.amazonaws.com/dev/run
+
+Africa (Cape Town)
+https://up1j9vlh71.execute-api.af-south-1.amazonaws.com/dev/run
+
+Asia Pacific (Hong Kong)
+https://gu1zu8xx11.execute-api.ap-east-1.amazonaws.com/dev/run
+
+Asia Pacific (Tokyo)
+https://c3iqabumtd.execute-api.ap-northeast-1.amazonaws.com/dev/run
+
+Europe (Ireland)
+https://fvj3rll99i.execute-api.eu-west-1.amazonaws.com/dev/run
+
+Europe (Frankfurt)
+https://bszkhcn2m7.execute-api.eu-central-1.amazonaws.com/dev/run
+
+Middle East (Bahrain)
+https://um7c15bqnl.execute-api.me-south-1.amazonaws.com/dev/run
+
+South America (São Paulo)
+https://kuhry6kp4h.execute-api.sa-east-1.amazonaws.com/dev/run
+
+
