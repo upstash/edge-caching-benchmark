@@ -434,7 +434,7 @@ function App() {
                 the blog post
             </a>
             |
-            <a href="https://github.com/upstash/edge-benchmark" rel="noreferrer" className="seelink" target="_blank">
+            <a href="https://github.com/upstash/edge-caching-benchmark" rel="noreferrer" className="seelink" target="_blank">
                 the source code
             </a>
             <br/>
