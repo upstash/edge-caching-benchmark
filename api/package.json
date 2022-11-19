@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@upstash/redis": "^1.16.0",
     "hdr-histogram-js": "^2.0.1",
     "ioredis": "^4.24.2",
     "node-fetch": "^2.6.1"

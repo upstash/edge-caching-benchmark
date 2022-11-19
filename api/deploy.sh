@@ -6,5 +6,6 @@ serverless deploy --region eu-central-1 > deploy-logs/eu-central-1.txt &
 serverless deploy --region sa-east-1 > deploy-logs/sa-east-1.txt &
 serverless deploy --region me-south-1 > deploy-logs/me-south-1.txt &
 serverless deploy --region af-south-1 > deploy-logs/af-south-1.txt &
+serverless deploy --region ap-southeast-1 > deploy-logs/ap-southeast-1.txt &
 serverless deploy --region ap-northeast-1 > deploy-logs/ap-northeast-1.txt &
 serverless deploy --region ap-east-1 > deploy-logs/ap-east-1.txt &
